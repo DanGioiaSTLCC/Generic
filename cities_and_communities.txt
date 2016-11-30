@@ -1,0 +1,89 @@
+Albuquerque
+Anchorage
+Ann Arbor
+Arlington
+Asheville
+Ashland
+Auburn
+Austin
+Baltimore
+Billings
+Boise
+Boston
+Boulder
+Bristol
+Burlington
+Cary
+Centerville
+Charleston
+Chattanooga
+Chester
+Chicago
+Cincinnati
+Clayton
+Cleveland
+Clinton
+Colorado Springs
+Columbus
+Culpeper
+Dayton
+Denver
+Detroit
+Dover
+Eugene
+Fairview
+Fargo
+Fayette
+Franklin
+Fredericksburg
+Gainesville
+Georgetown
+Gloucester
+Grand Rapids
+Greensboro
+Greenville
+Hudson
+Indianapolis
+Jackson
+Kansas City
+Kingston
+Lexington
+Little Rock
+Long Beach
+Louisville
+Madison
+Manchester
+Manhattan
+Marion
+Miami
+Milford
+Milton
+Milwaukee
+Minneapolis
+Mount Vernon
+New York
+Newport
+Niagara Falls
+Oakland
+Omaha
+Oxford
+Philadelphia
+Phoenix
+Pittsburgh
+Portland
+Riverside
+Rochester
+Salem
+Salt Lake
+San Francisco
+Scottsdale
+Seattle
+Sioux Falls
+Springfield
+St. Louis
+Tempe
+Tucson
+Tulsa
+Washington
+Winchester
+Worcester
